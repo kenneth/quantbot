@@ -30,9 +30,9 @@ We are especially interested in projects in the following areas.
 ```
 BTC:  1AhmTtBYwCbjZKFY4kuHSPkzUDdhXdu2nk
 ETH:  0xEbbC7f071a9FD4aAd18be74288C5Ca7269fb268E
-LTC:  
+LTC:  Li8eEUMRKxaCREebqVbsSXFxZ69ivX1MG3
 HCC:  HQ3krMBjczWUTtoyV8dz1QZicuMZTVijjL
-Qtum: 
+Qtum: QMfmSXPmGC1GxvkMZje3axwvWGCo8AFDYJ
 ```
 
 参与项目前请先加我微信：quomap
